@@ -8,4 +8,7 @@ homepage page is added (1st change)
 Products are displayed(3rd changes
 
 check merge1
+
+check merge3(conflictCheck)
+
 Check merge2(conflict demo)
